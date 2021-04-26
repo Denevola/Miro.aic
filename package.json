@@ -1,0 +1,12 @@
+{
+  "name": "Miro.aic",
+  "version": "1.0.0",
+  "description": "Discord Bot for SCP-KO Community",
+  "main": "index.js",
+  "repository": "https://github.com/Denevola/Miro.aic.git",
+  "author": "Denevola",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
