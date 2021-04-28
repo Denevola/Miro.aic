@@ -1,4 +1,3 @@
-# Miro.aic
 ![](/media/header-small.png)
 > Discord Bot for SCP-KO Community
 
